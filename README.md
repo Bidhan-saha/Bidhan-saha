@@ -9,7 +9,7 @@
 
 ###  About Me
 
--  Currently focusing on **Computer Vision**, **Object Detection (YOLO)**, and **Explainable AI (XAI)**.
+-  Currently focusing on **Computer Vision**, **Object Detection**, and **Explainable AI (XAI)**.
 -  Tech Stack: **Python**, **PyTorch**, **TensorFlow**, **OpenCV**, **JavaScript**, **PHP**.
 -  Open to research collaborations and AI/ML projects.
 
